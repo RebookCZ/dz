@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #303030;
+}
+
+.main{
+    height: 80px;
+    background-color: #000000;
+}
+
+.main_title{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.information{
+    margin-top: 60px;
+}
+
+.information_text{
+    font-family: 'Balsamiq Sans', cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
